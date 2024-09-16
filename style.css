@@ -507,9 +507,9 @@ body {
     grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
     gap: 20px;
     justify-content: center;
-margin-inline: auto;
+    margin-inline: auto;
     margin-bottom: 20px;
-    align-items: center;
+    
 }
 
 .product-card {
@@ -519,7 +519,7 @@ margin-inline: auto;
     padding: 15px;
     text-align: left;
     transition: transform 0.3s, box-shadow 0.3s;
- 
+    margin-inline: auto;
 }
 
 .product-card img {
